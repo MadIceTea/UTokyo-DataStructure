@@ -1,6 +1,6 @@
-This will be where I place code files that I make (classwork, homework) for this course.
+This will be where I place code files that I make for this course.
 
-WARNING: This repository is a bit on the larger size, mostly thanks to my incusion of two epochs of training data for pix2pix in a section of the repository. The training data was outsourced to another platform, as it could not be pushed via git, without some serious set-up.
+WARNING: This repository is a bit on the larger size, mostly thanks to my incusion of two epochs of data for pix2pix in a section of the repository. The training data, however, was outsourced to another platform, as it was too large to be pushed via git.
 
 Some assignments borrow on work I have completed from a previous Android programming project, especially a certain database of Station name byte-codes.
 
@@ -9,3 +9,5 @@ This course is "Database Mangement Systems and Data Structures" - a Friday 3rd c
 Minor edits between the production/presentation version and the PDFs and Image (JPG) files provided here exist, most in the form of information redactions.
 
 All code here (c) Alex Wiegman, Dr. Kazunori YAMAGUCHI and should not be reproduced in commercial use nor in educational assignments without contacting at least one of the aforementioned people.
+
+My email is kept current on my GitHub profile, if there is a need to contact me about any code here. 
