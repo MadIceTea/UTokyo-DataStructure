@@ -1,7 +1,11 @@
 This will be where I place code files that I make (classwork, homework) for this course.
 
-Some assignments and the final project borrow on work I have completed from a previous Android programming project, especially a certain database of Station name byte-codes.
+WARNING: This repository is a bit on the larger size, mostly thanks to my incusion of two epochs of training data for pix2pix in a section of the repository. The training data was outsourced to another platform, as it could not be pushed via git, without some serious set-up.
+
+Some assignments borrow on work I have completed from a previous Android programming project, especially a certain database of Station name byte-codes.
 
 This course is "Database Mangement Systems and Data Structures" - a Friday 3rd course taught by Prof. Yamaguchi for undergraduate students in the Faculty of Engineering. I will be (at minimum) sitting this course so that I can learn basics of C-programming.
 
-All code here (c) Alex Wiegman, Dr. Yoshihiro Kawahara and should not be reproduced in commercial use nor in educational assignments without contacting at least one of the aforementioned people.
+Minor edits between the production/presentation version and the PDFs and Image (JPG) files provided here exist, most in the form of information redactions.
+
+All code here (c) Alex Wiegman, Dr. Kazunori YAMAGUCHI and should not be reproduced in commercial use nor in educational assignments without contacting at least one of the aforementioned people.
